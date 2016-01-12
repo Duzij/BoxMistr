@@ -1,0 +1,57 @@
+C:\Users\DELL\Desktop\Programirung\VISUAL 2012\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\Interop.ADOX.dll
+C:\Users\DELL\Desktop\Programirung\VISUAL 2012\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\Programirung\VISUAL 2012\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+C:\Users\DELL\Desktop\Programirung\VISUAL 2012\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Programirung\VISUAL 2012\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\BoxMistr.exe.config
+C:\Users\DELL\Desktop\Programirung\VISUAL 2012\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Programirung\VISUAL 2012\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\BoxMistr.Properties.Resources.resources
+C:\Users\DELL\Desktop\Programirung\VISUAL 2012\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\BoxMistr.exe
+C:\Users\DELL\Desktop\Programirung\VISUAL 2012\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\BoxMistr.pdb
+C:\Users\DELL\Desktop\Programirung\VISUAL 2012\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\BoxMistr.exe
+C:\Users\DELL\Desktop\Programirung\VISUAL 2012\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\BoxMistr.pdb
+C:\Users\DELL\Desktop\Programirung\VISUAL 2012\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\BoxMistr.exe.CodeAnalysisLog.xml
+C:\Users\DELL\Desktop\Programirung\VISUAL 2012\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\BoxMistr.exe.lastcodeanalysissucceeded
+C:\Users\DELL\Desktop\BOX Mistr 28.11\WindowsFormsApplication2\bin\Release\BoxMistr.exe.config
+C:\Users\DELL\Desktop\BOX Mistr 28.11\WindowsFormsApplication2\obj\Release\Interop.ADOX.dll
+C:\Users\DELL\Desktop\BOX Mistr 28.11\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\BOX Mistr 28.11\WindowsFormsApplication2\obj\Release\BoxMistr.exe
+C:\Users\DELL\Desktop\BOX Mistr 28.11\WindowsFormsApplication2\obj\Release\BoxMistr.pdb
+C:\Users\DELL\Desktop\BOX Mistr 28.11\WindowsFormsApplication2\bin\Release\BoxMistr.exe
+C:\Users\DELL\Desktop\BOX Mistr 28.11\WindowsFormsApplication2\bin\Release\BoxMistr.pdb
+C:\Users\DELL\Desktop\BOX Mistr 28.11\WindowsFormsApplication2\bin\Release\BoxMistr.exe.CodeAnalysisLog.xml
+C:\Users\DELL\Desktop\BOX Mistr 28.11\WindowsFormsApplication2\bin\Release\BoxMistr.exe.lastcodeanalysissucceeded
+C:\Users\DELL\Desktop\BOX Mistr 28.11\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+C:\Users\DELL\Desktop\BOX Mistr 28.11\WindowsFormsApplication2\obj\Release\BoxMistr.Properties.Resources.resources
+C:\Users\DELL\Desktop\BOX Mistr 28.11\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\BOX Mistr 28.11\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\BOX Mistr LAST\WindowsFormsApplication2\bin\Release\BoxMistr.exe.config
+C:\Users\DELL\Desktop\BOX Mistr LAST\WindowsFormsApplication2\obj\Release\Interop.ADOX.dll
+C:\Users\DELL\Desktop\BOX Mistr LAST\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\BOX Mistr LAST\WindowsFormsApplication2\obj\Release\BoxMistr.exe
+C:\Users\DELL\Desktop\BOX Mistr LAST\WindowsFormsApplication2\obj\Release\BoxMistr.pdb
+C:\Users\DELL\Desktop\BOX Mistr LAST\WindowsFormsApplication2\bin\Release\BoxMistr.exe
+C:\Users\DELL\Desktop\BOX Mistr LAST\WindowsFormsApplication2\bin\Release\BoxMistr.pdb
+C:\Users\DELL\Desktop\BOX Mistr LAST\WindowsFormsApplication2\bin\Release\BoxMistr.exe.CodeAnalysisLog.xml
+C:\Users\DELL\Desktop\BOX Mistr LAST\WindowsFormsApplication2\bin\Release\BoxMistr.exe.lastcodeanalysissucceeded
+C:\Users\DELL\Desktop\BOX Mistr LAST\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\BOX Mistr LAST\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+C:\Users\DELL\Desktop\BOX Mistr LAST\WindowsFormsApplication2\obj\Release\BoxMistr.Properties.Resources.resources
+C:\Users\DELL\Desktop\BOX Mistr LAST\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\BOX Mistr LAST STABLE\WindowsFormsApplication2\bin\Release\BoxMistr.exe.config
+C:\Users\DELL\Desktop\BOX Mistr LAST STABLE\WindowsFormsApplication2\obj\Release\Interop.ADOX.dll
+C:\Users\DELL\Desktop\BOX Mistr LAST STABLE\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\BOX Mistr LAST STABLE\WindowsFormsApplication2\obj\Release\BoxMistr.exe
+C:\Users\DELL\Desktop\BOX Mistr LAST STABLE\WindowsFormsApplication2\obj\Release\BoxMistr.pdb
+C:\Users\DELL\Desktop\BOX Mistr LAST STABLE\WindowsFormsApplication2\bin\Release\BoxMistr.exe
+C:\Users\DELL\Desktop\BOX Mistr LAST STABLE\WindowsFormsApplication2\bin\Release\BoxMistr.pdb
+C:\Users\DELL\Desktop\BOX Mistr LAST STABLE\WindowsFormsApplication2\bin\Release\BoxMistr.exe.CodeAnalysisLog.xml
+C:\Users\DELL\Desktop\BOX Mistr LAST STABLE\WindowsFormsApplication2\bin\Release\BoxMistr.exe.lastcodeanalysissucceeded
+C:\Users\DELL\Desktop\BOX Mistr LAST STABLE\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\BOX Mistr LAST STABLE\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+C:\Users\DELL\Desktop\BOX Mistr LAST STABLE\WindowsFormsApplication2\obj\Release\BoxMistr.Properties.Resources.resources
+C:\Users\DELL\Desktop\BOX Mistr LAST STABLE\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Programirung\BOX Mistr LAST STABLE\WindowsFormsApplication2\bin\Release\BoxMistr.exe.config
+C:\Users\DELL\Desktop\Programirung\BOX Mistr LAST STABLE\WindowsFormsApplication2\obj\Release\Interop.ADOX.dll
+C:\Users\DELL\Desktop\Programirung\BOX Mistr LAST STABLE\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\Programirung\BOX Mistr LAST STABLE\WindowsFormsApplication2\obj\Release\BoxMistr.exe
+C:\Users\DELL\Desktop\Programirung\BOX Mistr LAST STABLE\WindowsFormsApplication2\obj\Release\BoxMistr.pdb

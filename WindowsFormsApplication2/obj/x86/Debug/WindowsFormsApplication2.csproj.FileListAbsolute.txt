@@ -1,0 +1,11 @@
+C:\Users\Uzivatel\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\BoxMistr.exe.config
+C:\Users\Uzivatel\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\Interop.ADOX.dll
+C:\Users\Uzivatel\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\Uzivatel\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\BoxMistr.exe
+C:\Users\Uzivatel\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\BoxMistr.pdb
+C:\Users\Uzivatel\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Uzivatel\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Uzivatel\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\BoxMistr.Properties.Resources.resources
+C:\Users\Uzivatel\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Uzivatel\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\BoxMistr.exe
+C:\Users\Uzivatel\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\BoxMistr.pdb
